@@ -1,3 +1,7 @@
+React Tutorial App of a image gallery like instagram. 
+Made using tutorail from https://www.youtube.com/watch?v=vUe91uOx7R0
+Net Ninja on youtube
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
